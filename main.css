@@ -2,7 +2,29 @@
     margin: 0;
     padding: 0;
 }
+body {
+    background-size: cover;
+    overflow-x: hidden;
+    background-image: url(./Images/);
+}
 
+.Admis-image img{
+    width:700px;
+    margin-left: 270px;
+}
+
+.org .sch-video video{
+    position:relative;
+    width:700px;
+}
+
+.hands-image img{
+    position: relative;
+    width:500px;
+    margin-left: 45px;
+    border-radius: 50px;
+    margin-top: 10px;
+}
 .main-header {
     display: inline-flex;
     width: 100%;
@@ -128,4 +150,73 @@ footer {
     text-align: center;
     color: white;
     font-weight: 600;
+}
+
+.ad-h1, .contact-h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.ad-text .heading2{
+    margin-left: 70px;
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+.ad-text p{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 18px;
+}
+
+.Home-image{
+    position:absolute;
+    width:450px;
+    margin-left: 430px;
+
+}
+
+.research-box1 {
+    margin-left: 60px;
+    margin-top: 20px;
+    padding-top: 30px;
+    margin-right: 40px;
+}
+
+.txt{
+    text-align: center;
+
+}
+
+.text-box {
+    margin-left: 50px;
+    margin-right: 40px;
+}
+
+.org{
+    margin-left: 50px;
+    margin-right: 40px;
+}
+
+.org video{
+    width: 900px;
+    margin-left: 120px;
+}
+
+.text-box h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.text-box h3{
+    margin-top: 20px;
+}
+
+.p{
+    margin-top: 30px;
+}
+
+.con {
+    margin-top: 40px;
+    margin-left: 80px;
 }
