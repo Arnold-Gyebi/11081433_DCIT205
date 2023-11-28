@@ -20,3 +20,13 @@ cd <project-directory>
 
 # WHAT I HAVE LEARNT
 Developing a website for a computer science department involves organizing and managing a variety of content, such as faculty profiles, research publications, course information and news updates. You may have learned how to efficiently handle and present this content in a structured organized manner.
+
+<img width="960" alt="contact" src="https://github.com/Arnold-Gyebi/11081433_DCIT205/assets/151784713/ca934592-8f50-4189-80d0-b86572ce048c">
+<img width="960" alt="faculty " src="https://github.com/Arnold-Gyebi/11081433_DCIT205/assets/151784713/60c550f6-168b-47e9-b0dd-73f5b2125d51">
+<img width="960" alt="research " src="https://github.com/Arnold-Gyebi/11081433_DCIT205/assets/151784713/8eb4cfaf-f8b3-4b29-a0e7-bb172eeb5360">
+<img width="960" alt="admission " src="https://github.com/Arnold-Gyebi/11081433_DCIT205/assets/151784713/9127c99a-9390-4aee-bc89-7617940339c2">
+
+
+<img width="960" alt="home" src="https://github.com/Arnold-Gyebi/11081433_DCIT205/assets/151784713/ae323c14-8ca5-452f-9b34-bf74f7909a62">
+
+<img width="960" alt="about " src="https://github.com/Arnold-Gyebi/11081433_DCIT205/assets/151784713/7099e1a9-4fee-4a54-87c9-e9775344059a">
